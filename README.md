@@ -1,2 +1,2 @@
-# Bank-Management-System
-My 1st project built using c programming language
+# My project Bank mangement system mainly focuses on the file handling  using c programming language.
+
